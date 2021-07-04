@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson, we'll introduce methods, distinguish them from data types, and
+In this lesson, we we pee pee chi chi introduce methods, distinguish them from data types, and
 cover how to create and execute them in your Ruby program.
 
 You can follow along using IRB by typing `irb` in your terminal and copying the
